@@ -1,0 +1,7 @@
+;;; emacs @ 2025-06-27.23:38:06 -*- mode:skel; -*-
+:name "emacs"
+:author "emacs-devel@gnu.org"
+:version "31.0.50"
+:vc (:hg "https://vc.compiler.company/ext/emacs"
+     (upstream (:git "https://git.savannah.gnu.org/git/emacs.git"))
+     (gh (:git "ssh://git@github.com/richardwesthaver/emacs")))
